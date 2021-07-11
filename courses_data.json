@@ -1,16 +1,181 @@
-sectionData = [
-      {
-        'name': 'สอนออกกำลังกายที่บ้าน',
-        'clients': [
-          {'name': 'แพรวา', 'status': 'onGoing', 'color': Colors.orange}
-        ]
+// 20210711214017
+// https://randomuser.me/api/?results=3
+
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Pihla",
+        "last": "Raisanen"
       },
-      {
-        'name': 'สอนเวทเทรนนิ่ง',
-        'clients': [
-          {'name': 'เจม', 'status': 'attention', 'color': Colors.blue},
-          {'name': 'Lucas', 'status': 'attention', 'color': Colors.blue},
-        ]
+      "location": {
+        "street": {
+          "number": 1198,
+          "name": "Siilitie"
+        },
+        "city": "Luhanka",
+        "state": "Åland",
+        "country": "Finland",
+        "postcode": 26531,
+        "coordinates": {
+          "latitude": "-5.8007",
+          "longitude": "68.5875"
+        },
+        "timezone": {
+          "offset": "+11:00",
+          "description": "Magadan, Solomon Islands, New Caledonia"
+        }
       },
-      {'name': 'สอนออกกำลังกายใหม่', 'clients': []}
-    ];
+      "email": "pihla.raisanen@example.com",
+      "login": {
+        "uuid": "cbef1c7f-2fa9-4c04-afc2-66d48b607ae8",
+        "username": "blackgorilla473",
+        "password": "shark1",
+        "salt": "9NJXcs58",
+        "md5": "610d95b181a931e46e96b4ef2eace66c",
+        "sha1": "f4d9c5048b64327c23d756cdf4c45b2067ab1b47",
+        "sha256": "ee98b69ac247ac645816e368f1f5fe697002abe7668f2ad7afff5821aa0b072f"
+      },
+      "dob": {
+        "date": "1991-10-05T20:53:59.415Z",
+        "age": 30
+      },
+      "registered": {
+        "date": "2007-05-01T20:50:22.640Z",
+        "age": 14
+      },
+      "phone": "07-404-695",
+      "cell": "044-219-51-38",
+      "id": {
+        "name": "HETU",
+        "value": "NaNNA634undefined"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/52.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+      },
+      "nat": "FI"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Chloé",
+        "last": "Marie"
+      },
+      "location": {
+        "street": {
+          "number": 1624,
+          "name": "Avenue Tony-Garnier"
+        },
+        "city": "Dunkerque",
+        "state": "Hautes-Alpes",
+        "country": "France",
+        "postcode": 14601,
+        "coordinates": {
+          "latitude": "-7.5601",
+          "longitude": "-87.8081"
+        },
+        "timezone": {
+          "offset": "+5:45",
+          "description": "Kathmandu"
+        }
+      },
+      "email": "chloe.marie@example.com",
+      "login": {
+        "uuid": "2e825ea5-67f3-497c-a157-03ad9a1cf2c3",
+        "username": "smalldog680",
+        "password": "bigd",
+        "salt": "nP2KOeW9",
+        "md5": "7e6c989f29f31ea9b25edbeb2e75b4f0",
+        "sha1": "7e89272dfbedb025266bb86afcb3201cbcca5fc6",
+        "sha256": "c3be9e0f5f17ba2de55e5148905327c207600f711e2ece80506da61c1eb6587f"
+      },
+      "dob": {
+        "date": "1949-04-14T21:36:57.354Z",
+        "age": 72
+      },
+      "registered": {
+        "date": "2006-11-21T11:05:25.289Z",
+        "age": 15
+      },
+      "phone": "02-23-90-99-47",
+      "cell": "06-41-76-90-32",
+      "id": {
+        "name": "INSEE",
+        "value": "2NNaN75336240 40"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/1.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Justine",
+        "last": "Chevalier"
+      },
+      "location": {
+        "street": {
+          "number": 4994,
+          "name": "Place de L'Abbé-Georges-Hénocque"
+        },
+        "city": "Nanterre",
+        "state": "Hautes-Pyrénées",
+        "country": "France",
+        "postcode": 18421,
+        "coordinates": {
+          "latitude": "26.1126",
+          "longitude": "-149.1517"
+        },
+        "timezone": {
+          "offset": "-7:00",
+          "description": "Mountain Time (US & Canada)"
+        }
+      },
+      "email": "justine.chevalier@example.com",
+      "login": {
+        "uuid": "40334f1f-f6b7-43c9-b153-b865a461608d",
+        "username": "smallkoala110",
+        "password": "roberta",
+        "salt": "VCOTMT5Y",
+        "md5": "e45a5ca754350dad2774f0b8e0dabe17",
+        "sha1": "ded7b530ac489c6d12f8cc3bd79081400026c431",
+        "sha256": "a037d0b681f49b92f976f9e31851ff45a52fb9b7313a56737f25605dedeae308"
+      },
+      "dob": {
+        "date": "1952-02-29T03:19:50.019Z",
+        "age": 69
+      },
+      "registered": {
+        "date": "2008-12-30T11:15:32.559Z",
+        "age": 13
+      },
+      "phone": "05-15-71-19-46",
+      "cell": "06-54-70-02-91",
+      "id": {
+        "name": "INSEE",
+        "value": "2NNaN48236380 05"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/34.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
+      },
+      "nat": "FR"
+    }
+  ],
+  "info": {
+    "seed": "3ac4ec74329bf3d8",
+    "results": 3,
+    "page": 1,
+    "version": "1.3"
+  }
+}
