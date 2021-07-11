@@ -1,29 +1,36 @@
 {
-    "results":[
-   {
+  "results": [
+    {
       "id":1,
-      "courses_name":"aaaaaa",
-      "trainer": [
-          {"name": "GGLucassss", "status": "attention", "color": "Colors.blue"},
-        ],
-      "image_cover":"https://blog.hubspot.com/hubfs/How%20to%20Edit%20%26%20Customize%20User%20Roles%20in%20WordPress.jpeg",
-   },
-   {
+      "courses_name": "สอนออกกำลังกายที่บ้าน",
+      "trainer": {
+        "name": "อนุทิ",
+        "status": "onGoing",
+        "color": "Colors.orange"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/90.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
+      }
+    },
+        {
       "id":2,
-      "title":"xxxxxxxxxx",
-      "trainer": [
-          {"name": "AALusssscas", "status": "attention", "color": "Colors.blue"},
-        ],
-      "image_cover":"https://blog.hubspot.com/hubfs/How%20to%20Edit%20%26%20Customize%20User%20Roles%20in%20WordPress.jpeg",
-   },
-   {
-      "id":3,
-      "title":"fffffff",
-      "trainer": [
-          {"name": "CCLucaszz", "status": "attention", "color": "Colors.blue"},
-        ],
-      "image_cover":"https://blog.hubspot.com/hubfs/How%20to%20Edit%20%26%20Customize%20User%20Roles%20in%20WordPress.jpeg",
-   }
-    ],
-    
+      "courses_name": "สอนเวทเทรนนิ่ง",
+      "trainer": {
+        "name": "ประยุด",
+        "status": "attention",
+        "color": "Colors.blue"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/90.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
+      }
+    }
+  ],
+  "total": {
+    "results": 2,
+    "page": 1
+  }
 }
