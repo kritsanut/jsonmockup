@@ -1,32 +1,122 @@
-{
-    "results": [
-      {
-        "name": "GAIN MASS",
-        "trainer": [
-          {"name": "Apple", 
-           "status": "onGoing", 
-           "color": "Colors.orange"}
-     
-        ]
+
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Olga",
+        "last": "Moreno"
       },
-      {
-        "name": "FAT LOSS",
-        "trainer": [
-          {"name": "Orange", 
-           "status": "attention", 
-           "color": "Colors.blue"}
-           
-        ]
+      "location": {
+        "street": {
+          "number": 5332,
+          "name": "Calle de Segovia"
+        },
+        "city": "Santander",
+        "state": "Cantabria",
+        "country": "Spain",
+        "postcode": 70137,
+        "coordinates": {
+          "latitude": "-17.1892",
+          "longitude": "120.2122"
+        },
+        "timezone": {
+          "offset": "-5:00",
+          "description": "Eastern Time (US & Canada), Bogota, Lima"
+        }
       },
-            {
-        "name": "WEIGHT LOSS",
-        "trainer": [
-          {"name": "Mango", 
-           "status": "attention", 
-           "color": "Colors.blue"}
-          
-        ]
-      }
-    ],
-    
+      "email": "olga.moreno@example.com",
+      "login": {
+        "uuid": "c9d489c4-af4e-4dd0-b3c9-e508a008ed0f",
+        "username": "organicswan403",
+        "password": "shock",
+        "salt": "8p32Ydpp",
+        "md5": "759b195413d860ddbdf7d5737159b3ab",
+        "sha1": "814df2ab6994b9634d8da734e972081c2e2bf3ae",
+        "sha256": "513f742f77a57454601413ab11c176f8e49b95947d1da4b85b38f75476d82eca"
+      },
+      "dob": {
+        "date": "1945-07-08T13:42:08.079Z",
+        "age": 76
+      },
+      "registered": {
+        "date": "2011-02-09T17:49:12.459Z",
+        "age": 10
+      },
+      "phone": "900-588-090",
+      "cell": "605-079-135",
+      "id": {
+        "name": "DNI",
+        "value": "65580457-T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/61.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Kirk",
+        "last": "Davidson"
+      },
+      "location": {
+        "street": {
+          "number": 1327,
+          "name": "Mockingbird Ln"
+        },
+        "city": "Albury",
+        "state": "Western Australia",
+        "country": "Australia",
+        "postcode": 4964,
+        "coordinates": {
+          "latitude": "-79.1897",
+          "longitude": "-150.9912"
+        },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "kirk.davidson@example.com",
+      "login": {
+        "uuid": "80be258a-98e1-478b-8029-3b280e536ef4",
+        "username": "blackmouse510",
+        "password": "anthony1",
+        "salt": "nA60shWl",
+        "md5": "948bf56c5b98fb3711a6ae89cfc3cd67",
+        "sha1": "8b3d5b6338bd2bc721108e1ab7771e9d20abf5b4",
+        "sha256": "4677a3d589b09d398b6e36858592d2d5a9d325583f16193c36037f97995d11a0"
+      },
+      "dob": {
+        "date": "1966-08-02T10:24:29.281Z",
+        "age": 55
+      },
+      "registered": {
+        "date": "2012-04-26T22:00:41.900Z",
+        "age": 9
+      },
+      "phone": "05-1605-8326",
+      "cell": "0490-868-012",
+      "id": {
+        "name": "TFN",
+        "value": "376019182"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/79.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+      },
+      "nat": "AU"
+    }
+  ],
+  "info": {
+    "seed": "3682e7fc9400639b",
+    "results": 2,
+    "page": 1,
+    "version": "1.3"
+  }
 }
