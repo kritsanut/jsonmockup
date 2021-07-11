@@ -1,66 +1,23 @@
 {
-  "results": [
-    {
-      "gender": "female",
-      "name": {
-        "title": "Mademoiselle",
-        "first": "Bertha",
-        "last": "Marchand"
+    "results": [
+      {
+        "name": "GAIN MASS",
+        "trainer": [
+          {"name": "Apple", "status": "onGoing", "color": "Colors.orange"}
+        ]
       },
-      "location": {
-        "street": {
-          "number": 9148,
-          "name": "Rue de L'Abbé-Groult"
-        },
-        "city": "Pregny-Chambésy",
-        "state": "Thurgau",
-        "country": "Switzerland",
-        "postcode": 9581,
-        "coordinates": {
-          "latitude": "-50.2288",
-          "longitude": "55.7300"
-        },
-        "timezone": {
-          "offset": "+3:30",
-          "description": "Tehran"
-        }
+      {
+        "name": "FAT LOSS",
+        "trainer": [
+          {"name": "Orange", "status": "attention", "color": "Colors.blue"},
+        ]
       },
-      "email": "bertha.marchand@example.com",
-      "login": {
-        "uuid": "29e9e8ac-d18b-499e-af04-acf6a1f8ae1c",
-        "username": "crazyostrich789",
-        "password": "1passwor",
-        "salt": "gFRLK3P8",
-        "md5": "659e95de68693b2e2c07c3ba7f31e83f",
-        "sha1": "8f69d712b068c1193dbaa98b85d2627cdcc45907",
-        "sha256": "36915fc4bd94b9252e353215ffb72c58aea7052578f7ed8148bdbe8f91a08d5e"
-      },
-      "dob": {
-        "date": "1997-11-02T01:58:48.215Z",
-        "age": 24
-      },
-      "registered": {
-        "date": "2009-08-20T08:32:43.755Z",
-        "age": 12
-      },
-      "phone": "077 690 79 13",
-      "cell": "077 009 72 11",
-      "id": {
-        "name": "AVS",
-        "value": "756.3388.1041.18"
-      },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/66.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
-      },
-      "nat": "CH"
-    }
-  ],
-  "info": {
-    "seed": "63505c87ed60a2ea",
-    "results": 1,
-    "page": 1,
-    "version": "1.3"
-  }
+            {
+        "name": "WEIGHT LOSS",
+        "trainer": [
+          {"name": "Mango", "status": "attention", "color": "Colors.blue"},
+        ]
+      }
+    ],
+    
 }
