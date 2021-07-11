@@ -1,0 +1,29 @@
+{
+    "results":[
+   {
+      "id":1,
+      "courses_name":"aaaaaa",
+      "trainer": [
+          {"name": "GGLucassss", "status": "attention", "color": "Colors.blue"},
+        ],
+      "image_cover":"https://blog.hubspot.com/hubfs/How%20to%20Edit%20%26%20Customize%20User%20Roles%20in%20WordPress.jpeg",
+   },
+   {
+      "id":2,
+      "title":"xxxxxxxxxx",
+      "trainer": [
+          {"name": "AALusssscas", "status": "attention", "color": "Colors.blue"},
+        ],
+      "image_cover":"https://blog.hubspot.com/hubfs/How%20to%20Edit%20%26%20Customize%20User%20Roles%20in%20WordPress.jpeg",
+   },
+   {
+      "id":3,
+      "title":"fffffff",
+      "trainer": [
+          {"name": "CCLucaszz", "status": "attention", "color": "Colors.blue"},
+        ],
+      "image_cover":"https://blog.hubspot.com/hubfs/How%20to%20Edit%20%26%20Customize%20User%20Roles%20in%20WordPress.jpeg",
+   }
+    ],
+    
+}
