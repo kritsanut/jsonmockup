@@ -1,0 +1,16 @@
+sectionData = [
+      {
+        'name': 'สอนออกกำลังกายที่บ้าน',
+        'clients': [
+          {'name': 'แพรวา', 'status': 'onGoing', 'color': Colors.orange}
+        ]
+      },
+      {
+        'name': 'สอนเวทเทรนนิ่ง',
+        'clients': [
+          {'name': 'เจม', 'status': 'attention', 'color': Colors.blue},
+          {'name': 'Lucas', 'status': 'attention', 'color': Colors.blue},
+        ]
+      },
+      {'name': 'สอนออกกำลังกายใหม่', 'clients': []}
+    ];
