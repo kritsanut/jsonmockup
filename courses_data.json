@@ -3,19 +3,36 @@
       {
         "name": "GAIN MASS",
         "trainer": [
-          {"name": "Apple", "status": "onGoing", "color": "Colors.orange"}
+          {"name": "Apple", 
+           "status": "onGoing", 
+           "color": "Colors.orange"},
+            "picture": {
+        "large": "https://randomuser.me/api/portraits/women/66.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+      },
         ]
       },
       {
         "name": "FAT LOSS",
         "trainer": [
           {"name": "Orange", "status": "attention", "color": "Colors.blue"},
+            "picture": {
+        "large": "https://randomuser.me/api/portraits/women/66.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+      },
         ]
       },
             {
         "name": "WEIGHT LOSS",
         "trainer": [
           {"name": "Mango", "status": "attention", "color": "Colors.blue"},
+            "picture": {
+        "large": "https://randomuser.me/api/portraits/women/66.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+      },
         ]
       }
     ],
